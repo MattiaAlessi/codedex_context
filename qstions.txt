@@ -1,7 +1,0 @@
-Which countries experience the most cyber breaches relative to their GDP? (Breach Intensity)
-
-Are there any countries with high GDP but low breaches? Are these "Safe Havens"?
-
-Which countries are "Cyber Targets," with both high GDP and high breach counts?
-
-Does a higher GDP correlate with more or fewer breaches?
